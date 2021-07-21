@@ -1,5 +1,7 @@
 # RailsGoat [![Build Status](https://api.travis-ci.org/OWASP/railsgoat.png?branch=master)](https://travis-ci.org/OWASP/railsgoat) [![Code Climate](https://codeclimate.com/github/OWASP/railsgoat.png)](https://codeclimate.com/github/OWASP/railsgoat)
 
+[![CIS](https://app.soluble.cloud/api/v1/public/badges/9b346d4c-e1a6-4052-a67d-253484daac16.svg)](https://app.soluble.cloud/repos/details/github.com/bhuvi11/railsgoat)  [![IaC](https://app.soluble.cloud/api/v1/public/badges/da371a77-20e8-4759-9961-5c99b3cc6973.svg)](https://app.soluble.cloud/repos/details/github.com/bhuvi11/railsgoat)  
+
 RailsGoat is a vulnerable version of the Ruby on Rails Framework from versions 3 to 6. It includes vulnerabilities from the OWASP Top 10, as well as some "extras" that the initial project contributors felt worthwhile to share. This project is designed to educate both developers, as well as security professionals.
 
 ## Support
